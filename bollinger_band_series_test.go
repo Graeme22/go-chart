@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/blend/go-sdk/assert"
-	"github.com/wcharczuk/go-chart/seq"
+	"github.com/Graeme22/go-chart/seq"
 )
 
 func TestBollingerBandSeries(t *testing.T) {
